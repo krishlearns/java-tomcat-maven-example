@@ -1,12 +1,10 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Summa Iru, SolAra!</h2>
 
-<h3>WelCome to Jenkins! We are working on Code Pipeline version 2</h3>
+<h3>Yellam kadandhu sel, Veru vazhi illai</h3>
 
-<p> This is change is to verify the Stage vs Production</p>
   
-  <p> Thanks Anshul Sir ! </p>
 
 </body>
 </html>
